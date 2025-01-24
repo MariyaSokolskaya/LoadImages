@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadImages</string>
+    <string name="title_text">Загрузка картинок</string>
+    <string name="button_text">Загрузить</string>
+</resources>
